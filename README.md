@@ -40,7 +40,7 @@ If you want to customize the view, you can set the next attributes.
             app:strokeSize="10dp"
             app:valueStrokeColor="#ff0000"
             app:backStrokeColor="#00ff00"
-            app:animationMode="overdraw" />
+            app:aniMode="overdraw" />
 ```
 
 ### Setting the values

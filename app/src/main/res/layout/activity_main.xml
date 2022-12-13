@@ -39,7 +39,7 @@
         <com.txusballesteros.widgets.FitChart
             style="@style/chart_style"
             android:layout_gravity="center"
-            app:animationMode="overdraw"
+            app:aniMode="overdraw"
             android:id="@+id/fitChart" />
 
         <LinearLayout
